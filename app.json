@@ -1,8 +1,7 @@
 {
     "name": "Telegram ID Bot",
     "description": "A bot to find telegram user id easily",
-    "repository": "https://github.com/BXBotz/Telegram-ID-Bot",
-    "logo": "https://telegra.ph/file/d357ab91889c3aca7c679.jpg",
+    "repository": "https://github.com/joel710/Telegram-ID-Bot",
     "keywords": [
         "telegram",
         "telegram id",
