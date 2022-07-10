@@ -1,35 +1,37 @@
 # Telegram ID Bot
 
-🤖 A Bot To Find Telegram User ID Easily
+🤖 Un bot pour trouver facilement l'ID utilisateur de Telegram
 
 ---
 
 ```
 Made with Python3
-(C) @BXBotz
-Copyright permission under MIT License
-License -> https://github.com/BXBotz/Telegram-ID-Bot/blob/main/LICENSE
+(C) @jojo_dev
+License -> https://github.com/joel710/Telegram-ID-Bot/blob/main/LICENSE
 ```
 
 ---
 
-# Deploy To Heroku
+# Déployer sur Heroku
 
 <details><summary><b>Deploy To Heroku</b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/BXBotz/Telegram-ID-Bot/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/joel710/Telegram-ID-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
-
+<p align="">
+    <a href="https://heroku.com/deploy?template=https://github.com/joel710/Telegram-ID-Bot">
+    <img src="https://www.herokucdn.com/deploy/button.svg" alt="herokudeploy-01" border="0" height="60" width="200"></a>
+</p>
 <details>
   <summary><b>Deploy in your vps</b></summary>
 <br/>
 
 ```sh
-git clone https://github.com/BXBotz/Telegram-ID-Bot/tree/main
+git clone https://github.com/joel710/Telegram-ID-Bot/tree/main
 cd Telegram-ID-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
